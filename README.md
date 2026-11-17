@@ -16,8 +16,8 @@ building openwm | 17 | seoul
 
 **builds**
 - [halo](https://joinhalo.vercel.app/) — social network for builders
-- [squeeze](https://github.com/ryanjmahn/squeeze) — cuts agent log noise 94%
-- [graveyard](https://github.com/ryanjmahn/graveyard) — memory of dead ends for coding agents
+- [squeeze](https://ryanjmahn.github.io/squeeze/) — cuts agent log noise 94%
+- [graveyard](https://ryanjmahn.github.io/graveyard/) — memory of dead ends for coding agents
 - [probix labs](https://tryprobix.com/) — product lab for the reproducibility crisis
 
 **research**
