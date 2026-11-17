@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
-  <img alt="ryan ahn" src="light_mode.svg" width="240" align="left">
+  <img alt="ryan ahn" src="light_mode.svg" width="180" align="left">
 </picture>
 
 ### ryan ahn
@@ -30,4 +30,4 @@ building openwm | 17 | seoul
 
 <br clear="left">
 
-<sub>[ryanjmahn.github.io](https://ryanjmahn.github.io/)</sub>
+[ryanjmahn.github.io](https://ryanjmahn.github.io/)
