@@ -1,13 +1,7 @@
-<table><tr>
-<td valign="top" width="340">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
-  <img alt="ryan ahn" src="light_mode.svg" width="320">
+  <img alt="ryan ahn" src="light_mode.svg" width="320" align="left">
 </picture>
-
-</td>
-<td valign="top">
 
 ### ryan ahn
 
@@ -32,9 +26,8 @@ building openwm | 17 | seoul
 - [dermamnist](https://github.com/ryanjmahn/DermaMNIST-Extension) — downsampling erases 4/5 diagnostic patterns; fix cuts skin-tone gap 52%  
   <sub>co-author · neurips '26 aidar</sub>
 - [kras g12d](https://github.com/ryanjmahn/KRAS-G12D-SIIP-Benchmark) — pocket predictors hit 0.95 mcc open, collapse closed  
-  <sub>cjsj quarterfinalist</sub>
+  <sub>solo author · cjsj quarterfinalist</sub>
 
-</td>
-</tr></table>
+<br clear="left">
 
 <sub>longer notes, dead ends included → [ryanjmahn.github.io](https://ryanjmahn.github.io/)</sub>
