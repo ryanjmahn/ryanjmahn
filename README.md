@@ -1,9 +1,9 @@
 <table><tr>
-<td valign="top">
+<td valign="top" width="340">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
-  <img alt="ryan ahn" src="light_mode.svg" width="380">
+  <img alt="ryan ahn" src="light_mode.svg" width="320">
 </picture>
 
 </td>
@@ -11,25 +11,28 @@
 
 ### ryan ahn
 
-building openwm
+building openwm | 17 | seoul
 
 [email](mailto:ryanjmahn1@gmail.com) · [linkedin](https://www.linkedin.com/in/ryan-ahn-57b570440/) · [site](https://ryanjmahn.github.io/)
 
 ---
 
 **currently**
-- openwm — in stealth.
+- openwm — stealth
 
 **builds**
-- halo — human-centric social network for builders
-- [squeeze](https://github.com/ryanjmahn/squeeze) — log squeezer for coding agents. runs a command, keeps the full log on disk, prints only the summary + failures. ~737 → 42 tokens on a noisy jest run. zero deps.
-- [graveyard](https://github.com/ryanjmahn/graveyard) — a log of dead ends for coding agents, so they stop retrying what already failed.
-- probix labs — product lab addressing reproducibility crisis 
+- halo — social network for builders
+- [squeeze](https://github.com/ryanjmahn/squeeze) — cuts agent log noise 94%
+- [graveyard](https://github.com/ryanjmahn/graveyard) — memory of dead ends for coding agents
+- probix labs — product lab for the reproducibility crisis
 
 **research**
-- [proteinmpnn](https://github.com/ryanjmahn/ProteinMPNN-Extension) — built a proteinmpnn detector for chimeric errors in reconstructed ancestral proteins, then audited it. plain string matching caught 90% vs the model's 28%. found 7 flaws in our own eval protocol. _co-author, neurips '26 tae._
-- [dermamnist](https://github.com/ryanjmahn/DermaMNIST-Extension) — audited what 224 → 28px downsampling erases: 4 of 5 dermatologist diagnostic patterns, unevenly across skin tones. built an 18-layer format that cuts the skin-tone gap 52%. _co-author, neurips '26 aidar._
-- [kras g12d](https://github.com/ryanjmahn/KRAS-G12D-SIIP-Benchmark) — benchmarked md-free pocket predictors on the cryptic switch-ii pocket. fpocket hits mcc 0.95 on the open structure; every tool collapses on the closed one. _cjsj quarterfinalist._
+- [proteinmpnn](https://github.com/ryanjmahn/ProteinMPNN-Extension) — string matching beat the model 90% vs 28%  
+  <sub>co-author · neurips '26 tae</sub>
+- [dermamnist](https://github.com/ryanjmahn/DermaMNIST-Extension) — downsampling erases 4/5 diagnostic patterns; fix cuts skin-tone gap 52%  
+  <sub>co-author · neurips '26 aidar</sub>
+- [kras g12d](https://github.com/ryanjmahn/KRAS-G12D-SIIP-Benchmark) — pocket predictors hit 0.95 mcc open, collapse closed  
+  <sub>cjsj quarterfinalist</sub>
 
 </td>
 </tr></table>
