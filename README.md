@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
-  <img alt="ryan ahn" src="light_mode.svg" width="180" align="left">
+  <img alt="ryan ahn" src="light_mode.svg" width="140" align="left">
 </picture>
 
 ### ryan ahn
