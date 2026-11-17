@@ -21,10 +21,10 @@ building openwm | 17 | seoul
 - openwm — stealth
 
 **builds**
-- halo — social network for builders
+- [halo](https://joinhalo.vercel.app/) — social network for builders
 - [squeeze](https://github.com/ryanjmahn/squeeze) — cuts agent log noise 94%
 - [graveyard](https://github.com/ryanjmahn/graveyard) — memory of dead ends for coding agents
-- probix labs — product lab for the reproducibility crisis
+- [probix labs](https://tryprobix.com/) — product lab for the reproducibility crisis
 
 **research**
 - [proteinmpnn](https://github.com/ryanjmahn/ProteinMPNN-Extension) — string matching beat the model 90% vs 28%  
