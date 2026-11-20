@@ -12,7 +12,7 @@ co-founder @ openwm | 17 | seoul
 ---
 
 **currently**
-- building something people want 
+- making something people want 
 
 **previously**
 - [proteinmpnn](https://github.com/ryanjmahn/ProteinMPNN-Extension) — string matching beat the model 90% vs 28% | co-author · neurips '26 tae
