@@ -12,7 +12,7 @@ co-founder @ openwm | 17 | seoul
 ---
 
 **now**
-- [openwm] - verification layer of physical ai 
+- [openwm] - verification layer for physical ai 
 
 **before**
 - [proteinmpnn](https://github.com/ryanjmahn/ProteinMPNN-Extension) — string matching beat the model 90% vs 28% | co-author · neurips '26 tae (1 of only 3 all-high-school-author paper of 226 accepted (1.33%))
