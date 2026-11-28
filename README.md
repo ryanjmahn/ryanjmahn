@@ -11,14 +11,15 @@ co-founder @ openwm | 17 | seoul
 
 ---
 
-**currently**
-- making something people want 
+**now**
+- [openwm] - verification layer of physical ai 
 
-**previously**
+**before**
 - [proteinmpnn](https://github.com/ryanjmahn/ProteinMPNN-Extension) — string matching beat the model 90% vs 28% | co-author · neurips '26 tae (1 of only 3 all-high-school-author paper of 226 accepted (1.33%))
 - [dermamnist](https://github.com/ryanjmahn/DermaMNIST-Extension) — downsampling erases 4/5 diagnostic patterns; fix cuts skin-tone gap 52% | co-author · neurips '26 aidar
 - [kras g12d](https://github.com/ryanjmahn/KRAS-G12D-SIIP-Benchmark) — pocket predictors hit 0.95 mcc open, collapse closed | solo author · cjsj semi-finalist
 - [probix labs](https://tryprobix.com/) — product lab startup for the reproducibility crisis in science research
+- [opensoma](https://ryanjmahn.github.io/opensoma/#/) - google earth for cells 
 
 <br clear="left">
 
